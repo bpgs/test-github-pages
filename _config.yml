@@ -1,3 +1,17 @@
 remote-theme: bpgs/redlab
 title: Noch eine Seite
 description: Eine Seite mit dem redlab-Theme von Ben Balter
+author:
+  name: Ben Balter
+  twitter: benbalter
+nav_pages:
+  - index.html
+  - talks.md
+  - about.md
+  - contact.md
+
+footer_pages:
+  - books-for-geeks.html
+  - fine-print.md
+
+
