@@ -44,3 +44,5 @@ siehe auch
 * <https://github.com/benbalter/benbalter.github.com>
 * <https://github.com/benbalter/retlab>
 * <https://github.com/bpgs/retlab>
+* <https://github.com/bpgs/gh-pages-template>
+* <https://github.com/bpgs/test-github-pages>
