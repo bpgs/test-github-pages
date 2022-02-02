@@ -2,8 +2,8 @@ remote-theme: bpgs/redlab
 title: Noch eine Github-Site
 description: Eine Seite mit dem redlab-Theme von Ben Balter
 author:
-  name: Ben Balter
-  twitter: benbalter
+  name: BPGS
+  twitter: schlamutzelnase
 nav_pages:
   - index.html
   - talks.md
