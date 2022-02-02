@@ -40,6 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 siehe auch
 
+* <https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll>
 * <https://github.com/benbalter>
 * <https://github.com/benbalter/benbalter.github.com>
 * <https://github.com/benbalter/retlab>
