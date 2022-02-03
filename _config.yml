@@ -4,6 +4,13 @@ description: Eine Seite mit dem redlab-Theme von Ben Balter
 author:
   name: BPGS
   twitter: schlamutzelnase
+
+repository: bpgs/test-github-pages
+logo: "/assets/img/headshot.jpg"
+
+twitter:
+  username: "@benbalter"  
+  
 nav_pages:
   - index.html
   - talks.md
