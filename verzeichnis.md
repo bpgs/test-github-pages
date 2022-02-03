@@ -10,8 +10,8 @@ Das ist die Seite Verzeichnis
 
 [Zurück1](..)
 
-[Zurück2](/)
+[Zurück2](test-github-pages/)
 
-[Zurück3](/..)
+[Zurück3](./test-github-pages)
 
 [Zurück4](../)
