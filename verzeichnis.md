@@ -10,11 +10,7 @@ Das ist die Seite Verzeichnis
 
 [Zurück2](/test-github-pages/)
 
-[Zurück2](test-github-pages/)
-
-[Zurück3](./test-github-pages)
-
 [Zurück4](/test-github-pages)
 
-[Zurück5](./test-github-pages/)
+[Top](/)
 
