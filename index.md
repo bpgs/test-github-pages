@@ -36,9 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-[Weitere Seiten](./verzeichnis)
-
-siehe auch
+## Siehe auch
 
 * <https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll>
 * <https://github.com/benbalter>
@@ -47,3 +45,5 @@ siehe auch
 * <https://github.com/bpgs/retlab>
 * <https://github.com/bpgs/gh-pages-template>
 * <https://github.com/bpgs/test-github-pages>
+
+[Weitere Seiten](./verzeichnis)
