@@ -8,4 +8,4 @@ Das ist die Seite Verzeichnis
 * <https://ecows.de>
 * <https://fewo-4-you.de/>
 
-[Zurück](/)
+[Zurück](..)
